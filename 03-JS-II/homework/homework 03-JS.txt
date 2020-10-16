@@ -1,0 +1,4 @@
+1. FOR es una estructura para realizar una determinado paso o serie de pasos que se repiten. esta estructura nos ayuda a escribir menos codigo y realizar tareas en menor tiempo.
+&& en ingles es "AND" y en castellano "Y". es un operador logico que analiza 2 operandos y el cual devuelve un valor booleano (true o false). este valor se optiene de la comparacion de ambos operandos, la unica forma que de True es si ambos operandos son Verdaderos sino cualquier otra combinacion da falso. 
+|| en ingles es "OR" y en castellano "O", es un operador logico que compara dos valores y devuelve un valor booleano. existe solo una condicion para que devuelva False y es que ambos operandos sean falsos sino cualquiera de las otras opciones da True.
+! es un operador de negacion en ingles es "NOT" y en castellano es el "NO". este operador se utiliza para negar el resultado de una operacion, de esta forma estaremos cambiando el valor booleano optenido por su contrario.
