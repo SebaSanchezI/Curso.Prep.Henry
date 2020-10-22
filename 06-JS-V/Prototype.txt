@@ -1,0 +1,4 @@
+Prototype es una propiedad de las clases. esta propiedad lo que hace es evitar la repeticion de codigo. 
+dentro de esta propiedad podemos definir los metodos de una clase y los cuales pueden ser accedidos
+por cualquier objeto instanciado con esa clase. 
+un Constructor o Class es una plantilla que agrupa ciertas caracteristicas y funciones que tienen en comun algunos objetos, lo que hace esta plantilla es crear un modelo basico el cual puede luego ser modificado de acuerdo a los datos especificos del objeto que queremos. 
