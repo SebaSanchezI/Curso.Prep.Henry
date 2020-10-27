@@ -1,0 +1,1 @@
+Las funciones pueden recibir distintos tipos de argumentos. Cuando el argumento que recibe es otra funcion se la llama CALLBACK. Estos callbacks pueden ser invocados en cualquier momento dentro de la funcion. Por regla general siempre se les pone el nombre de cb, aunque se la puede llamar como quieras.
